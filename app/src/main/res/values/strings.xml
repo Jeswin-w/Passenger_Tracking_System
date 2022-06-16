@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Passenger Tracking System</string>
+    <string name="title_activity_location">location</string>
+    <string name="permission_required_toast">Permission granted</string>
+    <string name="location_permission_denied">Access denied</string>
+    <string name="permission_rationale_location">Give permission</string>
+</resources>
